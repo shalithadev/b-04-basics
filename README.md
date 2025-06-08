@@ -1,5 +1,7 @@
 # React.js and Next.js Mastering Course (Batch 04)
 
+This session is part of the **React.js and Next.js Mastering Course** and focuses on foundational concepts essential for modern web development. You'll learn about popular styling frameworks, the basics of version control systems, core JavaScript concepts (including the event loop and ECMAScript versions), and practical Git commands for managing your codebase. By the end of this session, you'll have a solid understanding of how to style applications, manage code versions, and work with JavaScript fundamentals—skills that are crucial for any React or Next.js developer.
+
 ## Session 01
 
 ### 1. Initial Project Setup
