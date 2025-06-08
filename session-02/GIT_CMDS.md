@@ -1,4 +1,4 @@
-## 4. Basic Git Commands
+## 1. Basic Git Commands
 
 Git is a distributed version control system that helps you track and manage changes to your code. Follow these steps to set up a Git repository and push your code to a remote service like GitHub.
 
@@ -65,7 +65,7 @@ git status
 **Explanation:**  
 This command shows which files have been modified, staged, or are untracked. It's useful for reviewing changes before committing or pushing to a remote repository.
 
-### 6. Clone the Remote Repository
+### 7. Clone the Remote Repository
 
 To copy a remote repository to your local machine, use the `git clone` command:
 
