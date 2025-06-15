@@ -1,9 +1,32 @@
 // External JavaScript file
 
 // JavaScript Variable Types
-var userEmail = "shalithadev@gmail.com";
-const userName = "Hashan Shalitha"; // String
-let userAge = 28; // Number
+
+// Var Type
+// JavaScript var Hoisting
+// console.log("1::", userEmail); // No Hoisting
+// var userEmail = "shalithadev@gmail.com";
+// console.log("2::", userEmail);
+
+// Let Type
+// console.log("1::", userAge);
+// Declare and Initialize user age as a let variable
+// let userAge; // Init // Number
+// userAge = 28; // Assign // Number
+// console.log("2::", userAge);
+// // Update the already declared let variable
+// userAge = 29;
+// console.log("3::", userAge);
+
+// Const Type
+// console.log("1::", userName); // No Hoisting
+// const userName = "Hashan Shalitha"; // String
+// userName = "Hashan Shalitha"; // String
+// console.log("2::", userName);
+// userName = "Ravindu"; // No Re-assignments
+// console.log("3::", userName);
+
+
 const isAuthenticated = false; // Boolean
 const lastName = null;
 const firstName = undefined;
@@ -31,8 +54,6 @@ multi-line
 comment
 */
 
-userAge = 29;
-
 // console.log("I'm second javascript file here!", {userEmail, userName, userAge});
 
 // console.log(userEmail, typeof userEmail);
@@ -43,4 +64,4 @@ userAge = 29;
 // console.log("value:", userData, "type:", typeof userData);
 // console.log("value:", fruits, "type:", typeof fruits);
 // console.log("value:", numbers, "type:", typeof numbers);
-console.log("value:", users, "type:", typeof users);
+// console.log("value:", users, "type:", typeof users);
