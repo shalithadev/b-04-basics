@@ -27,12 +27,18 @@
      - Main: `<main>...</main>`
      - Footer: `<footer>...</footer>`
 
-5. **Creating React Components**
+5. **Next.js Metadata**
 
-   - Creating our `First React Component` **(Main Nav Bar)**
-   - Creating reusable components
-   - Reusing the `Main Nav Bar` component in the `Root Layout`
+   - Introduction to metadata in Next.js
+   - Using the `metadata` object in `page.jsx` and `layout.jsx`
+   - Setting page titles, descriptions, and Open Graph tags
+   - Practical example: Adding SEO metadata to your Home page
 
-6. **Next.js Custom Tags**
-   - Using `<Link>` tag from `next/link`
-   - Using `<Image>` tag from `next/image`
+6. **Next.js `next/font` and `next/font/google`**
+
+   - Introduction to the `next/font` module in Next.js
+   - Benefits of using built-in font optimization
+   - How to import and use Google Fonts with `next/font/google`
+   - Example: Adding a custom Google Font to your Next.js project
+   - Managing font weights, subsets, and fallback fonts
+   - Best practices for performance and accessibility with web fonts
