@@ -66,7 +66,7 @@
 
 5. **Next.js Middleware (TODO)**
 
-   - Create a `middleware.ts` file at the root of `src/` or project.
+   - Create a `middleware.js` file at the root of project folder.
    - Add route protection using Better Auth middleware.
    - Example:
 
